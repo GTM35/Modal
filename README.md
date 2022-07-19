@@ -12,7 +12,9 @@ Para este projeto, foram utilizado as seguintes tecnologias:
 📌 Para acessar o projeto, [clique aqui](https://gtm35.github.io/Modal/).
 
 ### 🖥️ Versão Desktop:
-<img src="Assets/github/desktop.png"/>
+<img src="Assets/github/desktop1.png"/>
+<img src="Assets/github/desktop2.png"/>
 
 ### 📱 Versão Mobile:
-<img src="Assets/github/mobile.jpeg" height="800" />
+<img src="Assets/github/mobile1.jpeg" height="800" />
+<img src="Assets/github/mobile2.jpeg" height="800" />
